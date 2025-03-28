@@ -40,6 +40,14 @@ EDA involves analyzing and visualizing data to uncover patterns and trends. The 
 - Summarize key findings from the analysis.
 - Discuss potential business or user implications of the results.
 
+## Results & Visualizations
+
+## **Finding the Top10 Singers Over all the dataset**
+![Screenshot 2025-03-28 112722](https://github.com/user-attachments/assets/852f0a1c-a60e-43ec-9a95-49e642d6b5e5)
+
+## **Analyzing the Top5 Languages Over all the dataset**
+![Screenshot 2025-03-28 113232](https://github.com/user-attachments/assets/7482fdbd-b18a-46d0-8168-4a08fafa9a1b)
+
 ## Conclusion
 The analysis of the songs dataset provides valuable insights into the trends and characteristics of popular music. By performing data cleaning, EDA, and statistical analysis, we can identify key factors that contribute to a song's popularity. This information can be useful for music producers, streaming services, and analysts in making data-driven decisions about song recommendations and market trends.
 
